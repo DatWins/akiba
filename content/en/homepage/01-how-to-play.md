@@ -5,7 +5,7 @@ navigation_menu_title: "How to Play"
 weight: 1
 header_menu: true
 ---
-Welcome to the games of Robert Fischer. Can you guess Fischer's moves?
+Welcome to the games of Akiba Rubenstein. Can you guess Akiba's moves? 
 
 Each game starts a few moves in. You take Fischer's side and type the move you think he played, one move at a time. After each of your moves, his opponent's reply appears on the scoresheet.
 
