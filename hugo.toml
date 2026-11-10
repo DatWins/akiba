@@ -1,4 +1,4 @@
-baseURL = "https://datwins.github.io/fisher_no_fish/"
+baseURL = "https://datwins.github.io/akiba/"
 
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
@@ -15,8 +15,8 @@ enableEmoji = true
     favicon = "images/favicon.png"
     images = ["images/cover-image.jpg"]
     title_guard = true
-    title = "Welcome to the games of Robert Fischer"
-    description = "Can you guess Fischer's moves?"
+    title = "Welcome to the games of Akiba Rubinstein"
+    description = "Can you guess Akiba's moves?"
     language_menu = false
     show_current_lang = false
     hidedesignbyline = false
