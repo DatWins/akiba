@@ -1,6 +1,6 @@
 ---
-header_headline: "Welcome to the games of Robert Fischer"
-header_subheadline: "Can you guess Fischer's moves?"
+header_headline: "Welcome to the games of Akiba Rubenstein"
+header_subheadline: "Can you guess Akiba's moves?"
 header_image: "images/cover-image.jpg"
 header_use_video: false
 nav_to_top_title: "Back to Top"
