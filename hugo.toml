@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 
 theme = "hugo-scroll"
 
-title = "Fisher No Fish – Guess the Move"
+title = "Guess Akiba's Moves"
 
 enableGitInfo = true
 enableEmoji = true
